@@ -1,2 +1,2 @@
 # Shehab_Hassan
-![IOT] (../Shehab_Hassan/iot.png)
+<p align="center"><a href="iot.png" target="_blank"><img src="file.jpg" width="400"></a></p>
